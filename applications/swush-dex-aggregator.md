@@ -104,7 +104,7 @@ Several development teams have already expressed interest in building on Plaza, 
 - **Frontend:** Next.js and React
 - **Backend:** Node.js with TypeScript to handle core logic, API integrations, and cross-chain messaging.
 - **Database:** MongoDB or PostgreSQL to store user transaction history and application metadata.
-- **Blockchain Integration:** Polkadot.js API to enable wallet connections, XCM transactions, and interaction with DEXs across Polkadot’s parachains.
+- **Blockchain Integration:** Polkadot.js API/Papi to enable wallet connections, XCM transactions, and interaction with DEXs across Polkadot’s parachains.
 - **DevOps:**  CI/CD with GitHub Actions for efficient development workflows.
 
  **Core Components & Architecture**
@@ -177,7 +177,7 @@ Our initial UI which we created is hosted [here](https://swush-labs.github.io/sw
 
 ### Overview[](https://grants.web3.foundation/applications/typink#overview-1)
 
-- **Total Estimated Duration:** 4 months
+- **Total Estimated Duration:** 5 months
 - **Full-Time Equivalent (FTE):** 1.5
 - **Total Costs:** 25,000 USD
 - **DOT %:** 50%
